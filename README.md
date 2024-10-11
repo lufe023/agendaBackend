@@ -1,7 +1,6 @@
 **Red Social**
 
-
-*TODO*
+_TODO_
 [x] CRUD de usuarios
 [x] Registro de Usuarios
 [x] Manejar Publicaciones (CRUD)
@@ -16,9 +15,6 @@
 [ ] Amigos en comun
 [ ] Compartir publicacion
 [ ] Favoritos
-[ ] Login con diferentes cuentas 
+[ ] Login con diferentes cuentas
 
-pm2
-
-http://localhost:3000/api/v1/uploads/image.png
-
+Bot que agenda citas via whatsapp pero ademas pueda dar seguimientos a items, mapeando cada paso en que se encuentra un producto o servicio, funciona como el tracking de paqueterias, simulamos un taller de autos, el usuario puede consultar el estado actualizado de su vehiculo entodo momento desde que lo dejó el el taller
