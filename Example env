@@ -1,0 +1,12 @@
+FRONTENDHOST = 
+PORT = 
+HOST = 
+JWT_SECRET = 
+NODE_ENV = development
+
+DB_PROD_DIALET = postgres
+DB_PORT = 
+DB_PASS = 
+DB_USERNAME = 
+DB_HOST = 
+DB_NAME = 
